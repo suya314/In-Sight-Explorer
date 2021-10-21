@@ -13,3 +13,5 @@
 In-Sight Explorer에서 사용되는 함수들을 OpenCV로 구현하고, Bracket 샘플 사진을 검사하여 불량품을 검출하는 프로그램을 만듦.
 * ExtractHistogram : 영역에서 GrayScale 값을 계산하는 함수
 * ExtractBlob : 영역에서 Blob을 찾는 함수
+
+[시연 영상](https://youtu.be/ml4Wm9xp0uI)
