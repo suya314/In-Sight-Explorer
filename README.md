@@ -1,5 +1,5 @@
 # In-Sight-Explorer
-
+깃허브 사용 미숙으로 제대로 프로젝트 폴더를 업로드하지 못함. 추후 수정 필요!
 ## 프로젝트 개요
 2021-1 컴퓨터영상신호처리 교과목에서 진행한 개인 프로젝트. OpenCV를 이용한 In-Sight Explorer 기능 구현
 
@@ -14,4 +14,16 @@ In-Sight Explorer에서 사용되는 함수들을 OpenCV로 구현하고, Bracke
 * ExtractHistogram : 영역에서 GrayScale 값을 계산하는 함수
 * ExtractBlob : 영역에서 Blob을 찾는 함수
 
+![0004](https://user-images.githubusercontent.com/69028945/138356471-9388d4d4-7114-48c2-a690-b3397d858ccd.jpg)
+
+## 구현
+
+![0005](https://user-images.githubusercontent.com/69028945/138356539-6a4d4728-f39e-46f7-903d-3095345c52c3.jpg)
+
 [시연 영상](https://youtu.be/ml4Wm9xp0uI)
+
+
+## 개선점
+
+![0014](https://user-images.githubusercontent.com/69028945/138357507-adce69dd-e34b-470b-aa97-44e013a1eab2.jpg)
+
